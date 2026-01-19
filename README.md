@@ -1,4 +1,4 @@
-# DZ6
+# DZ6 изменено
 ДЗ 6 КисвянцевДС
 - Импортируется класс `datetime` из модуля `datetime`.
 - Определяется функция `parse_newspaper_date(newspaper, date_str, date_format)`, которая:
